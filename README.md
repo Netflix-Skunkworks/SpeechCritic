@@ -126,3 +126,8 @@ builds on [MS-Swift](https://github.com/modelscope/ms-swift),
 inspired by [OPSD](https://github.com/siyan-zhao/OPSD). Please cite the
 applicable projects and follow their model and software licenses; BibTeX entries
 are collected in [`CITATIONS.bib`](CITATIONS.bib).
+
+
+## License
+
+Licensed under the [Apache License, Version 2.0](LICENSE). See [NOTICE](NOTICE) for copyright attribution.
